@@ -1,2 +1,3 @@
 # Sensor-BME688-mes
-Script to use sensor bme688
+This script must be used with the official bosch library anche let you take, save and read data from the sensor BME688 (on breakout board) in force-mode for a set time.
+
